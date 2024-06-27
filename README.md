@@ -1,2 +1,2 @@
 # JavaScript-From-Validation
-# Author-Shaikh Afsar Alli
+ Author-Shaikh Afsar Alli
